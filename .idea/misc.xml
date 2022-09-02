@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/SQLLITE3/app/src/main/res/layout/activity_add_course_teachers.xml" value="0.209375" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/SQLLITE3/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/SQLLITE3/app/src/main/res/layout/activity_mod_teacher.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/SQLLITE3/app/src/main/res/layout/activity_modify_teachers.xml" value="0.209375" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/SQLLITE3/app/src/main/res/layout/model_teacher_mod.xml" value="0.193359375" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/SQLLITE3/app/src/main/res/layout/model_teachers.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
